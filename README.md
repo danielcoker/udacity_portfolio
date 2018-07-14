@@ -1,3 +1,3 @@
-# UDACITY PORTFOLIO PROJECT
+## UDACITY PORTFOLIO PROJECT
 
 Udacity build a portfolio website project.
