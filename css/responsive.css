@@ -1,0 +1,11 @@
+@media screen and (max-width: 770px) {
+    #logo, #intro {
+        text-align: center;
+    }
+
+    #about p {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+}
