@@ -6,6 +6,10 @@ Udacity build a portfolio website project.
 
 Udacity logo, Banner, Appify, Sunflower and Bokeh images are all gotten from Google.
 
-#### Social Icons
+#### Icons
 
 Font Awesome
+
+#### Frameworks/Libraris
+
+Bootstrap, jQuery
