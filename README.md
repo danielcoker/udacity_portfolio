@@ -10,6 +10,6 @@ Udacity logo, Banner, Appify, Sunflower and Bokeh images are all gotten from Goo
 
 Font Awesome
 
-#### Frameworks/Libraris
+#### Frameworks/Libraries
 
 Bootstrap, jQuery
